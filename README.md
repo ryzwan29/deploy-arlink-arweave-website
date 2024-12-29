@@ -29,3 +29,7 @@ Then save your Github Auth Token
 ```
 source <(curl -s https://raw.githubusercontent.com/ryzwan29/deploy-arlink-arweave-website/main/quick-deployment.sh)
 ```
+
+## Deploy your website to [Arlink](https://arlink.arweave.net/)
+- In new deployment, select "import from github"
+- Select your repository
