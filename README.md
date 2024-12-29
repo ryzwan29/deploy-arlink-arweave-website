@@ -20,6 +20,12 @@ Then save your Github Auth Token
 
 ## Create your Github Repository
 - From github dashboard click "Create a new repository"
+
 ![new-repo](new-repo.png)
 ![new-repo-1](new-repo-2.png)
 - Then save your remote address
+
+## Run script
+```
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/deploy-arlink-arweave-website/main/quick-deployment.sh)
+```
