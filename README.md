@@ -1,5 +1,5 @@
 # ARLink
-register here [https://arlink.arweave.net/](https://arlink.arweave.net/)
+Register here [https://arlink.arweave.net/](https://arlink.arweave.net/)
 
 
 # Prerequisite
