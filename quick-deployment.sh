@@ -41,5 +41,5 @@ git add .
 read -p "Enter your GitHub repository remote: " GITHUB_ACCOUNT
 git remote add origin $GITHUB_ACCOUNT
 git commit -m "first commit"
-git branch -M main
+git branch -m main
 git push -u origin main
